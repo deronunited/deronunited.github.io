@@ -5,17 +5,19 @@ body {
   background-color: #f9f9f9;
   color: #333333;
 
-  width: 980px;
+  width: 1080px;
   margin: 0 auto;
 }
 
 h1 {
+  color: red;
   text-align: center;
   font-size: 36px;
   margin-bottom: 0;
 }
 
 main > h2 {
+  color: blue
   text-align: center;
   font-size: 25px;
 }
